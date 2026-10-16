@@ -116,7 +116,7 @@ askretail/
 ├── requirements.txt
 └── README.md
 ```
-## 12. Limitations & future work
+## 8. Limitations & future work
 
 - Single dataset; schema generalisation untested
 - Gold-set questions written by the author (risk of bias); mention this honestly
